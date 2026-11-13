@@ -1,1 +1,0 @@
-# practica6-nginx-docker
